@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "C:/Users/luitz/OneDrive-luitz/OneDrive/Documents/KiCAD/LibraryLoader/SamacSys_Parts.lib")(options "")(descr "")(disabled))
+  (lib (name "23A_Battery_Holder")(type "KiCad")(uri "${KIPRJMOD}/23A_Battery_Holder/23A_Battery_Holder.kicad_sym")(options "")(descr ""))
+)

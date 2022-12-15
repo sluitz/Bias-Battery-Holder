@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/luitz/OneDrive-luitz/OneDrive/Documents/KiCAD/LibraryLoader/SamacSys_Parts.pretty")(options "")(descr "")(disabled))
+  (lib (name "23A_Battery_Holder")(type "KiCad")(uri "${KIPRJMOD}/23A_Battery_Holder/footprints.pretty")(options "")(descr ""))
+)
